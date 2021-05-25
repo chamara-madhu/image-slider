@@ -1,0 +1,15 @@
+.nav-dot-btns-div {
+  width: fit-content;
+  margin: auto;
+  margin-top: 15px;
+
+  i {
+    margin: 3px;
+    font-size: 10px;
+    color: #a5a5a5;
+  }
+
+  .active {
+    color: #4b4b4b;
+  }
+}
